@@ -1,16 +1,19 @@
 {
 	"AllNum": {
 		"one": {
-			"url": "",
-			"isToPage": false
+			"url": "https://www.80jili.com",
+			"isToPage": true,
+			"inten": true
 		},
 		"two": {
-			"url": "",
-			"isToPage": false
+			"url": "https://www.90jili.com",
+			"isToPage": true,
+			"inten": true
 		},
 		"three": {
-			"url": "",
-			"isToPage": false
+			"url": "https://www.jiliasia.com",
+			"isToPage": true,
+			"inten": true
 		},
 		"four": {
 			"url": "",
